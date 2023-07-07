@@ -16,9 +16,12 @@ and save your scripts and notes all in one place.
 5. After completing the front-end part, I tested my site multiple times and then deployed it.
 
 # Tech Stacks :
-Front-end : ReactJS, ChakraUI, Redux, React Router Dom, Axios and Font Awesome.
-Back-end : NodeJS, ExpressJS, Mongoose, Json Web Token, Bcrypt, Cors and Dotenv.
-Database : MongoDB.
+# Front-end :
+ReactJS, ChakraUI, Redux, React Router Dom, Axios and Font Awesome.
+# Back-end : 
+NodeJS, ExpressJS, Mongoose, Json Web Token, Bcrypt, Cors and Dotenv.
+# Database : 
+MongoDB.
 
 # Clone :
 `git clone https://github.com/dgdeepon/blogs_xi.git`
