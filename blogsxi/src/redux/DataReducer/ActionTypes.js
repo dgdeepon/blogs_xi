@@ -1,0 +1,7 @@
+export const DATA_REQ='DATA_REQ';
+export const DATA_SUCC='DATA_SUCC';
+export const DATA_FAILED='DATA_FAILED';
+
+export const DATA_UPATE_REQ='DATA_UPATE_REQ';
+export const DATA_UPATE_SUCC='DATA_UPATE_SUCC';
+export const DATA_UPATE_FAILED='DATA_UPATE_FAILED';
