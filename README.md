@@ -21,12 +21,12 @@ Back-end : NodeJS, ExpressJS, Mongoose, Json Web Token, Bcrypt, Cors and Dotenv.
 Database : MongoDB.
 
 # Clone :
-`git clone https://github.com/dgdeepon/blogs_xi.git`.
-In side the back-end folder :
+`git clone https://github.com/dgdeepon/blogs_xi.git`
+# In side the back-end folder :
 1. You have to add your .env file with mongoDB database link.
 2. `npm i`.
 3. `npm run server`.
-In side the front-end folder :
+# In side the front-end folder :
 1. You have to add your .env file with API link.
 2. `npm i`
 3. `npm run start`
